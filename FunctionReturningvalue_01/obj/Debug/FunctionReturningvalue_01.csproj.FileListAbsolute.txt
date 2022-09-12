@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\bin\Debug\FunctionReturningvalue_01.exe.config
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\bin\Debug\FunctionReturningvalue_01.exe
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\bin\Debug\FunctionReturningvalue_01.pdb
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\obj\Debug\FunctionReturningvalue_01.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\obj\Debug\FunctionReturningvalue_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\obj\Debug\FunctionReturningvalue_01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\obj\Debug\FunctionReturningvalue_01.exe
+C:\Users\DELL\source\repos\FunctionReturningvalue_01\FunctionReturningvalue_01\obj\Debug\FunctionReturningvalue_01.pdb
